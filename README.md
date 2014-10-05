@@ -30,3 +30,17 @@ Shortcut:
 - Find Actions: Compare With Branch﻿
 
 ![My image](https://lh6.googleusercontent.com/-xW1J3BBZHZc/VC6FVCMexWI/AAAAAAAAN8M/GEJqszoqzXk/w570-h328-no/38-comparewithbranch.gif)
+
+##Postfix Completion
+You can think of it as a code completion that will generate code before the dot instead of after it. In fact, you invoke it just like a regular code completion: you type a dot after an expression.
+
+E.g. to iterate a list, you could go "myList.for", press tab and it would generate the for loop for you.
+
+You can get a list of what you can type by typing a dot after a statement and looking at the postfix keywords that come right after the regular code completion keywords. There is also a list of all available keywords in Editor → Postfix Completion
+
+Some of my personal favorites:
+- .for (for a foreach)
+- .format (wraps a string in String.format())
+- .cast (wraps an expression in a type cast)
+
+![My image](https://lh5.googleusercontent.com/-rLMdeb9cbBM/VCVUw0Y656I/AAAAAAAANt8/J2KiRPMjRzs/w474-h136-no/33-postfixcompletion.gif)
