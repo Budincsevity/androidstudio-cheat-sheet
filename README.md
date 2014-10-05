@@ -21,3 +21,12 @@ Shortcut:
  
 ![My image](https://lh6.googleusercontent.com/-6rDn8kL7Pgw/VClEM13oYKI/AAAAAAAAN0o/JWiduW1pWsU/w519-h265-no/34-comparewithclipboard.gif)
 
+##Compare With Branch (Git)
+Assuming that your project is under Git, you can compare the current file or folder with another branch.
+Pretty useful to get an idea of how much you have diverged from your main branch.
+
+Shortcut:
+- Menu : VCS -> Git -> Compare With Branch
+- Find Actions: Compare With Branch﻿
+
+![My image](https://lh6.googleusercontent.com/-xW1J3BBZHZc/VC6FVCMexWI/AAAAAAAAN8M/GEJqszoqzXk/w570-h328-no/38-comparewithbranch.gif)
